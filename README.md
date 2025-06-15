@@ -21,7 +21,7 @@ Smart Water Meter adalah sistem IoT berbasis ESP32 yang dirancang untuk memantau
 - Arduino IDE untuk pengembangan firmware ESP32
 - Python (Scikit-learn, NumPy) untuk pelatihan model ELM
 - Blynk Cloud sebagai platform monitoring dan notifikasi
-- MQTT sebagai protokol komunikasi
+- WiFi sebagai protokol komunikasi
 
 ## Dataset dan Model AI
 - Total data: 3.648 baris simulasi
